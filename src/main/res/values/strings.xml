@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="add_workout_title">ADD WORKOUT</string>
+    <string name="remove_workout_title">REMOVE WORKOUT</string>
+    <string name="share_workout_title">SHARE WORKOUT</string>
+    <string name="modify_workout_title">VIEW/MODIFY WORKOUT</string>
+    <string name="generate_workout_title">GENERATE WORKOUT</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_hide">Hide</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>

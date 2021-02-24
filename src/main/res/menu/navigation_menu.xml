@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/add_workout"
+        android:icon="@drawable/ic_note_add_black_24dp"
+        android:title="ADD WORKOUT"/>
+    <item android:id="@+id/remove_workout"
+        android:icon="@drawable/ic_delete_black_24dp"
+        android:title="REMOVE WORKOUT"/>
+    <item android:id="@+id/modify_workout"
+        android:icon="@drawable/ic_pageview_black_24dp"
+        android:title="VIEW / MODIFY WORKOUT"/>
+    <item android:id="@+id/generate_workout"
+        android:icon="@drawable/ic_autorenew_black_24dp"
+        android:title="GENERATE WORKOUT"/>
+    <item android:id="@+id/share_workout"
+        android:icon="@drawable/ic_supervisor_account_black_24dp"
+        android:title="SHARE WORKOUT"/>
+</menu>
+
